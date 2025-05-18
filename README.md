@@ -20,16 +20,3 @@ Welcome to my Workspace. I'm a developer exploring code, design, and automation 
 ![Meta](https://img.shields.io/badge/-Meta-0064E0?style=flat&logo=meta&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat&logo=openai&logoColor=white)
 
----
-
-## 📌 Pinned Projects
-
-Check out some of the tools and experiments I’m working on:
-
-- 🛠 [**CorpNET_proj**](https://github.com/belyassh/CorpNET_proj) — database interface on C#
-- 🌍 [**GMPknife**](https://github.com/belyassh/GMPknife) — data extraction from Google Maps
-- 🔐 [**TripleDES_cipher**](https://github.com/belyassh/TripleDES_cipher) — Windows text encryption tool
-- 🧪 [**Caesar_encrypt**](https://github.com/belyassh/Caesar_encrypt) — first encryption prototype
-- 📨 [**UDPprotocol_chat**](https://github.com/belyassh/UDPprotocol_chat) — LAN messenger via UDP
-- 🌐 [**WebTemplates**](https://github.com/belyassh/WebTemplates) — collection of popular website templates
-
