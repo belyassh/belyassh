@@ -34,5 +34,3 @@ Check out some of the tools and experiments I’m working on:
 - 📨 [**UDPprotocol_chat**](https://github.com/belyassh/UDPprotocol_chat) — LAN messenger via UDP
 - 🌐 [**WebTemplates**](https://github.com/belyassh/WebTemplates) — collection of popular website templates
 
----
-
