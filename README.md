@@ -1,6 +1,5 @@
-# 👋 Hello! I'm Nikita, and this is my Workspace 🧠
-
-Welcome to my corner of the internet. I'm a developer exploring code, design, and automation — from scripts to full-blown tools.
+# 👋 Hello! I'm Nikita
+Welcome to my Workspace. I'm a developer exploring code, design, and automation — from scripts to full-blown tools.
 
 ---
 
