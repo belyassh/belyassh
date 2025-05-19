@@ -3,7 +3,7 @@ Welcome to my Workspace. I'm a developer exploring code, design, and automation 
 
 ---
 
-Tech Stack
+<h3>Tech Stack</h3>
 
 **Languages:**
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
