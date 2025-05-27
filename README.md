@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Nikita
-Welcome to my Workspace. I'm a developer exploring code, design, and automation — from scripts to full-blown tools.
+Welcome to my Workspace. I'm a developer exploring code, design, blockchain and automation — from scripts to full-blown tools.
 
 ---
 
