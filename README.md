@@ -17,6 +17,5 @@ Welcome to my Workspace. I'm a developer exploring code, design, blockchain and 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Meta](https://img.shields.io/badge/-Meta-0064E0?style=flat&logo=meta&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat&logo=openai&logoColor=white)
 
