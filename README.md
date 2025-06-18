@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Nikita
+# 👋 Hello! My name is Nikita
 Welcome to my Workspace. I'm a developer exploring code, design, blockchain and automation — from scripts to full-blown tools.
 
 ---
