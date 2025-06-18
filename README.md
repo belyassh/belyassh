@@ -1,7 +1,6 @@
 # 👋 Hello! My name is Nikita,
 <H2>and thank you for following my Workspace.</H2>
 Here i'am sharing with people my programms that helps my own sometime.
----
 
 
 <h3>Tech Stack</h3>
