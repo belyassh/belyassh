@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=belyassh&color=green)
-
-
 # 👋 Hello! My name is Nikita,
 <H2>Thank you for following my Workspace.</H2>
 Here i'm sharing with people my programms that helps my own sometime.
