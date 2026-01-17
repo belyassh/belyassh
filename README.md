@@ -10,3 +10,4 @@ Here i'm sharing with people my programms that helps my own sometime.
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
